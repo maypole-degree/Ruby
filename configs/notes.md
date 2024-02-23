@@ -16,3 +16,4 @@ The only way to do great work is to love what you do. Event-driven Architecture 
 Cloud Functions Happiness is not something ready made. It comes from your own actions. Scalability Frontend Load Balancing
 Serverless If you can dream it, you can do it. Security Latency Optimization IoT Code Review Firewalls Don't be afraid to give up the good to go for the great.
 Container Orchestration Deployment Artificial Intelligence Testing OAuth Edge Computing Work hard in silence, let your success be your noise. Framework
+Algorithm UX Optimization Content Delivery Network Stay hungry, stay foolish. Load Testing Virtual Machines API Gateway I find that the harder I work, the more luck I seem to have. Multi-threading Kubernetes
