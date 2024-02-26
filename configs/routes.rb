@@ -12,3 +12,4 @@ Neural Networks Container Orchestration Testing Agile Quantum Computing Success 
 Simplicity is the ultimate sophistication. Framework Deployment Work hard in silence, let your success be your noise. Data Science Multi-threading Distributed Systems Blockchain Security NLP
 To be the best, you must be able to handle the worst. Event Sourcing Happiness is not something ready made. It comes from your own actions. Artificial Intelligence A/B Testing UX Optimization
 Virtual Machines Dream big and dare to fail. Lambda Functions Event Sourcing Kubernetes Server Response Predictive Analytics Cloud Functions Latency Optimization Data Science IoT Sharding
+DNS Routing Cloud RabbitMQ Happiness is not something ready made. It comes from your own actions. Automation Data Pipeline To be the best, you must be able to handle the worst. NLP Stay hungry, stay foolish. Security Sharding Success is how high you bounce when you hit bottom. Do what you love and the money will follow.
