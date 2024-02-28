@@ -10,3 +10,4 @@ Machine Learning Pull Request JWT Logging Stay hungry, stay foolish. Containeriz
 Innovation distinguishes between a leader and a follower. API Gateway Data Pipeline Do what you love and the money will follow. WebSockets Multi-threading
 Work hard in silence, let your success be your noise. Edge Computing Version Control Success is how high you bounce when you hit bottom. Container Orchestration
 Pull Request Containerization JavaScript Replica Set OAuth Testing
+Testing Backend If you can dream it, you can do it. Monitoring Opportunities don't happen. You create them. RabbitMQ Data Pipeline DNS Routing

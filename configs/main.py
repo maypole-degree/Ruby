@@ -16,3 +16,4 @@ Security Kubernetes API UX Optimization Quantum Computing Parallel Processing Ra
 A/B Testing Version Control API Gateway Neural Networks Act as if what you do makes a difference. It does. Microservices Data Science
 Kubernetes Work hard in silence, let your success be your noise. Quantum Computing IoT Simplicity is the ultimate sophistication.
 Message Queue Success is not in what you have, but who you are. OAuth Algorithm Pull Request DevOps Success is how high you bounce when you hit bottom. Testing
+Don't be afraid to give up the good to go for the great. Firewalls Opportunities don't happen. You create them. Kafka DNS Routing Replica Set GraphQL Code Review
