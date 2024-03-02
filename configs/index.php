@@ -13,3 +13,4 @@ Virtual Machines Kafka WebSockets Container Orchestration API Cloud Functions Da
 IoT Neural Networks Difficult roads often lead to beautiful destinations. Testing Framework
 Happiness is not something ready made. It comes from your own actions. Sharding Cache Invalidation CI/CD Message Queue Kubernetes
 Event Sourcing UX Optimization Cache Invalidation Predictive Analytics Kafka Artificial Intelligence Data Pipeline IoT Success doesn’t just find you. You have to go out and get it. Big Data If you can dream it, you can do it.
+Version Control Work hard in silence, let your success be your noise. Virtual Machines Quantum Computing I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Agile Act as if what you do makes a difference. It does. React Database Indexing UX Optimization Cloud Functions Cache Invalidation

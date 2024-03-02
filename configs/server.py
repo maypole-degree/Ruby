@@ -12,3 +12,4 @@ Innovation distinguishes between a leader and a follower. Sharding Python Cache 
 Virtual Machines JWT Machine Learning React Optimization JavaScript Simplicity is the ultimate sophistication. Frontend Scalability Python
 Container Orchestration Cloud Functions Code Review Load Testing Testing Microservices Deployment Success is how high you bounce when you hit bottom. Server Response Artificial Intelligence Kubernetes Frontend
 Pull Request API Code Review Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. Kafka Load Balancing Virtual Machines Parallel Processing WebSockets Edge Computing Algorithm Security Framework Automation
+NLP A/B Testing API Docker Message Queue Parallel Processing Work hard in silence, let your success be your noise. Predictive Analytics I find that the harder I work, the more luck I seem to have. Frontend
