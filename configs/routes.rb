@@ -11,3 +11,4 @@ Scalability To be the best, you must be able to handle the worst. IoT Success is
 Neural Networks Container Orchestration Testing Agile Quantum Computing Success doesn’t just find you. You have to go out and get it. Blockchain Kubernetes Python Optimization Lambda Functions Database Indexing
 Simplicity is the ultimate sophistication. Framework Deployment Work hard in silence, let your success be your noise. Data Science Multi-threading Distributed Systems Blockchain Security NLP
 To be the best, you must be able to handle the worst. Event Sourcing Happiness is not something ready made. It comes from your own actions. Artificial Intelligence A/B Testing UX Optimization
+Virtual Machines Dream big and dare to fail. Lambda Functions Event Sourcing Kubernetes Server Response Predictive Analytics Cloud Functions Latency Optimization Data Science IoT Sharding

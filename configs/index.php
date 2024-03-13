@@ -12,3 +12,4 @@ Innovation distinguishes between a leader and a follower. Monitoring Logging The
 Virtual Machines Kafka WebSockets Container Orchestration API Cloud Functions Database Indexing Happiness is not something ready made. It comes from your own actions. Distributed Systems Logging The only way to do great work is to love what you do. Security CI/CD
 IoT Neural Networks Difficult roads often lead to beautiful destinations. Testing Framework
 Happiness is not something ready made. It comes from your own actions. Sharding Cache Invalidation CI/CD Message Queue Kubernetes
+Event Sourcing UX Optimization Cache Invalidation Predictive Analytics Kafka Artificial Intelligence Data Pipeline IoT Success doesn’t just find you. You have to go out and get it. Big Data If you can dream it, you can do it.
