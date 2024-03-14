@@ -11,3 +11,4 @@ Algorithm Zero Downtime Deployment Big Data Lambda Functions Database Sharding W
 Virtual Machines Optimization Big Data Lambda Functions IoT RabbitMQ CI/CD Opportunities don't happen. You create them. OAuth Scalability NLP Kafka Database
 Docker Difficult roads often lead to beautiful destinations. API Gateway Agile Database Indexing
 Innovation distinguishes between a leader and a follower. Big Data WebSockets CI/CD Content Delivery Network Distributed Systems Security Framework Edge Computing Event-driven Architecture
+Happiness is not something ready made. It comes from your own actions. Docker Machine Learning Success doesn’t just find you. You have to go out and get it. Pull Request If you can dream it, you can do it. React
