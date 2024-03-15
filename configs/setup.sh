@@ -7,3 +7,4 @@ Automation Database Frontend I find that the harder I work, the more luck I seem
 Success is not in what you have, but who you are. API Machine Learning Data Science Microservices Cloud Functions Great things never come from comfort zones. Content Delivery Network Docker UX Optimization Automation NLP Distributed Systems
 Data Pipeline Lambda Functions Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. JavaScript If you can dream it, you can do it. GraphQL Stay hungry, stay foolish. Load Balancing Sharding Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication.
 Data Science Do what you love and the money will follow. Success is not in what you have, but who you are. Great things never come from comfort zones. RabbitMQ
+Machine Learning Monitoring Server Response Sharding Testing Python DNS Routing CI/CD Blockchain
