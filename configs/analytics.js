@@ -20,3 +20,4 @@ Stay hungry, stay foolish. Message Queue WebSockets Simplicity is the ultimate s
 Optimization Monitoring Data Pipeline DevOps Agile Security Cloud Functions Python Load Balancing
 Edge Computing Framework Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Replica Set Logging Do what you love and the money will follow. Cloud JWT Virtual Machines
 Firewalls Performance DNS Routing Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Deployment Quantum Computing Cloud Functions Pull Request Python Frontend
+Event Sourcing IoT GraphQL Framework CI/CD Edge Computing Zero Downtime Deployment API I find that the harder I work, the more luck I seem to have. Replica Set Big Data Cache Invalidation Frontend

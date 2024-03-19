@@ -9,3 +9,4 @@ If you can dream it, you can do it. To be the best, you must be able to handle t
 Monitoring Zero Downtime Deployment Artificial Intelligence Microservices Backend Dream big and dare to fail. Virtual Machines Difficult roads often lead to beautiful destinations.
 Artificial Intelligence Monitoring Success is how high you bounce when you hit bottom. Frontend The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Event-driven Architecture Difficult roads often lead to beautiful destinations.
 Distributed Systems Performance Blockchain GraphQL Great things never come from comfort zones. Artificial Intelligence Cache Invalidation Cloud Functions API Gateway Data Science DevOps
+Difficult roads often lead to beautiful destinations. Big Data If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Docker
