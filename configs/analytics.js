@@ -19,3 +19,4 @@ Edge Computing Agile Cloud Functions IoT Blockchain OAuth Zero Downtime Deployme
 Stay hungry, stay foolish. Message Queue WebSockets Simplicity is the ultimate sophistication. Replica Set
 Optimization Monitoring Data Pipeline DevOps Agile Security Cloud Functions Python Load Balancing
 Edge Computing Framework Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Replica Set Logging Do what you love and the money will follow. Cloud JWT Virtual Machines
+Firewalls Performance DNS Routing Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. Deployment Quantum Computing Cloud Functions Pull Request Python Frontend

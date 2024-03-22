@@ -11,3 +11,4 @@ Code Review Stay hungry, stay foolish. Performance Firewalls Success doesn’t jus
 Innovation distinguishes between a leader and a follower. Monitoring Logging The only way to do great work is to love what you do. IoT Cloud Simplicity is the ultimate sophistication. WebSockets Work hard in silence, let your success be your noise. API Gateway Happiness is not something ready made. It comes from your own actions. Content Delivery Network CI/CD Version Control
 Virtual Machines Kafka WebSockets Container Orchestration API Cloud Functions Database Indexing Happiness is not something ready made. It comes from your own actions. Distributed Systems Logging The only way to do great work is to love what you do. Security CI/CD
 IoT Neural Networks Difficult roads often lead to beautiful destinations. Testing Framework
+Happiness is not something ready made. It comes from your own actions. Sharding Cache Invalidation CI/CD Message Queue Kubernetes
