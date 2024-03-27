@@ -10,3 +10,4 @@ Virtual Machines Do what you love and the money will follow. Server Response Alg
 Algorithm Zero Downtime Deployment Big Data Lambda Functions Database Sharding WebSockets Deployment IoT Do what you love and the money will follow. Backend Optimization
 Virtual Machines Optimization Big Data Lambda Functions IoT RabbitMQ CI/CD Opportunities don't happen. You create them. OAuth Scalability NLP Kafka Database
 Docker Difficult roads often lead to beautiful destinations. API Gateway Agile Database Indexing
+Innovation distinguishes between a leader and a follower. Big Data WebSockets CI/CD Content Delivery Network Distributed Systems Security Framework Edge Computing Event-driven Architecture
