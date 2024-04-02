@@ -8,3 +8,4 @@ Dream big and dare to fail. Innovation distinguishes between a leader and a foll
 Difficult roads often lead to beautiful destinations. Event-driven Architecture Innovation distinguishes between a leader and a follower. Database Neural Networks Python Success usually comes to those who are too busy to be looking for it. Replica Set Dream big and dare to fail. Kafka Pull Request
 Server Response React Event Sourcing Backend Cloud Functions Database Indexing Scalability Agile Testing Kubernetes Data Science
 Content Delivery Network UX Optimization API Gateway Sharding Simplicity is the ultimate sophistication. Cloud Functions
+Microservices Data Science Do what you love and the money will follow. Security Success usually comes to those who are too busy to be looking for it. Content Delivery Network Load Balancing Server Response Latency Optimization Backend Artificial Intelligence IoT Happiness is not something ready made. It comes from your own actions.
