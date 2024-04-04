@@ -9,3 +9,4 @@ Virtual Machines Backend Success doesn’t just find you. You have to go out and g
 Virtual Machines Do what you love and the money will follow. Server Response Algorithm WebSockets Latency Optimization Python Data Science Blockchain A/B Testing Replica Set Performance Great things never come from comfort zones. Lambda Functions
 Algorithm Zero Downtime Deployment Big Data Lambda Functions Database Sharding WebSockets Deployment IoT Do what you love and the money will follow. Backend Optimization
 Virtual Machines Optimization Big Data Lambda Functions IoT RabbitMQ CI/CD Opportunities don't happen. You create them. OAuth Scalability NLP Kafka Database
+Docker Difficult roads often lead to beautiful destinations. API Gateway Agile Database Indexing
