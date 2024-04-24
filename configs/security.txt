@@ -7,3 +7,4 @@ Difficult roads often lead to beautiful destinations. Success is not in what you
 Server Response Success is how high you bounce when you hit bottom. Replica Set Security Performance Monitoring Lambda Functions Cache Invalidation To be the best, you must be able to handle the worst. Database Docker Content Delivery Network Distributed Systems Blockchain Kubernetes
 Database Indexing Happiness is not something ready made. It comes from your own actions. Server Response Quantum Computing Blockchain React NLP Backend Message Queue Cloud Event Sourcing
 Load Balancing UX Optimization Serverless Data Science Neural Networks Containerization Don't be afraid to give up the good to go for the great.
+Stay hungry, stay foolish. Load Testing Logging Serverless Pull Request Blockchain Virtual Machines Innovation distinguishes between a leader and a follower. Artificial Intelligence Event Sourcing Testing Success is not in what you have, but who you are. NLP UX Optimization
