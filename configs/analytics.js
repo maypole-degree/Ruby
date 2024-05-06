@@ -15,3 +15,4 @@ Dream big and dare to fail. Performance Version Control Optimization Artificial 
 UX Optimization Security Algorithm WebSockets Neural Networks Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Firewalls
 Framework Event-driven Architecture Lambda Functions DNS Routing Latency Optimization Server Response Data Pipeline
 Event-driven Architecture Do what you love and the money will follow. Optimization Pull Request Zero Downtime Deployment CI/CD Machine Learning Load Balancing
+Edge Computing Agile Cloud Functions IoT Blockchain OAuth Zero Downtime Deployment

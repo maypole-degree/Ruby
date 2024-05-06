@@ -8,3 +8,4 @@ OAuth Simplicity is the ultimate sophistication. Success usually comes to those 
 Lambda Functions Code Review Load Testing I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it.
 Machine Learning Pull Request JWT Logging Stay hungry, stay foolish. Containerization Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. Neural Networks
 Innovation distinguishes between a leader and a follower. API Gateway Data Pipeline Do what you love and the money will follow. WebSockets Multi-threading
+Work hard in silence, let your success be your noise. Edge Computing Version Control Success is how high you bounce when you hit bottom. Container Orchestration
