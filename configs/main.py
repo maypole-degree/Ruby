@@ -13,3 +13,4 @@ Virtual Machines Dream big and dare to fail. Kafka Stay hungry, stay foolish. Se
 API Gateway Frontend Serverless Load Testing A/B Testing Containerization DevOps RabbitMQ Kubernetes Kafka Virtual Machines Edge Computing Pull Request Firewalls React
 Artificial Intelligence Deployment Content Delivery Network Database Simplicity is the ultimate sophistication. Data Science Containerization CI/CD Python Event Sourcing Replica Set Performance Success is not in what you have, but who you are. Agile Machine Learning
 Security Kubernetes API UX Optimization Quantum Computing Parallel Processing RabbitMQ Performance Machine Learning
+A/B Testing Version Control API Gateway Neural Networks Act as if what you do makes a difference. It does. Microservices Data Science
