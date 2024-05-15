@@ -12,3 +12,4 @@ Work hard in silence, let your success be your noise. Version Control Edge Compu
 Virtual Machines Dream big and dare to fail. Kafka Stay hungry, stay foolish. Serverless DNS Routing Innovation distinguishes between a leader and a follower. Algorithm Big Data Database Cloud Functions Load Testing
 API Gateway Frontend Serverless Load Testing A/B Testing Containerization DevOps RabbitMQ Kubernetes Kafka Virtual Machines Edge Computing Pull Request Firewalls React
 Artificial Intelligence Deployment Content Delivery Network Database Simplicity is the ultimate sophistication. Data Science Containerization CI/CD Python Event Sourcing Replica Set Performance Success is not in what you have, but who you are. Agile Machine Learning
+Security Kubernetes API UX Optimization Quantum Computing Parallel Processing RabbitMQ Performance Machine Learning
