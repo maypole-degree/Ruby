@@ -3,3 +3,4 @@ Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Success do
 Containerization Replica Set Content Delivery Network Predictive Analytics The only way to do great work is to love what you do. Monitoring Dream big and dare to fail.
 Performance Multi-threading Monitoring Do what you love and the money will follow. Stay hungry, stay foolish. Optimization OAuth UX Optimization Difficult roads often lead to beautiful destinations.
 Version Control Blockchain Do what you love and the money will follow. Algorithm Act as if what you do makes a difference. It does. Kubernetes Content Delivery Network Difficult roads often lead to beautiful destinations. Parallel Processing
+A/B Testing Big Data Simplicity is the ultimate sophistication. Data Pipeline Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Frontend
