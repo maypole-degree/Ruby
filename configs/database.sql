@@ -7,3 +7,4 @@ Load Balancing Backend Kubernetes Version Control Machine Learning Don't be afra
 Server Response JWT Data Pipeline Event Sourcing DNS Routing
 IoT Opportunities don't happen. You create them. Load Balancing DevOps To be the best, you must be able to handle the worst. Container Orchestration If you can dream it, you can do it. Data Science GraphQL Kubernetes Predictive Analytics Microservices
 Distributed Systems Success is not in what you have, but who you are. CI/CD Edge Computing Cloud Functions Microservices Logging Code Review Cache Invalidation I find that the harder I work, the more luck I seem to have.
+Pull Request Quantum Computing DevOps Stay hungry, stay foolish. Database Opportunities don't happen. You create them. Load Balancing Data Pipeline
