@@ -8,3 +8,4 @@ Algorithm Success is how high you bounce when you hit bottom. Deployment Load Ba
 Lambda Functions Version Control RabbitMQ Cloud Monitoring IoT NLP Success is how high you bounce when you hit bottom. CI/CD Optimization Quantum Computing Latency Optimization DevOps Content Delivery Network Virtual Machines
 Backend Data Science Machine Learning Deployment Version Control If you can dream it, you can do it. Don't be afraid to give up the good to go for the great.
 Event-driven Architecture Stay hungry, stay foolish. Logging Microservices Agile GraphQL Testing A/B Testing API Gateway Algorithm Big Data Performance Replica Set Code Review Server Response
+Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Stay hungry, stay foolish. CI/CD Act as if what you do makes a difference. It does.

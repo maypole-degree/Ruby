@@ -10,3 +10,4 @@ Do what you love and the money will follow. Multi-threading Event Sourcing Loggi
 Scalability To be the best, you must be able to handle the worst. IoT Success is not in what you have, but who you are. Automation Performance Work hard in silence, let your success be your noise. Cloud Functions Docker Data Pipeline Do what you love and the money will follow. Python
 Neural Networks Container Orchestration Testing Agile Quantum Computing Success doesn’t just find you. You have to go out and get it. Blockchain Kubernetes Python Optimization Lambda Functions Database Indexing
 Simplicity is the ultimate sophistication. Framework Deployment Work hard in silence, let your success be your noise. Data Science Multi-threading Distributed Systems Blockchain Security NLP
+To be the best, you must be able to handle the worst. Event Sourcing Happiness is not something ready made. It comes from your own actions. Artificial Intelligence A/B Testing UX Optimization
