@@ -7,3 +7,4 @@ Docker To be the best, you must be able to handle the worst. RabbitMQ Great thin
 Algorithm Success is how high you bounce when you hit bottom. Deployment Load Balancing Stay hungry, stay foolish. Distributed Systems Backend Container Orchestration Work hard in silence, let your success be your noise.
 Lambda Functions Version Control RabbitMQ Cloud Monitoring IoT NLP Success is how high you bounce when you hit bottom. CI/CD Optimization Quantum Computing Latency Optimization DevOps Content Delivery Network Virtual Machines
 Backend Data Science Machine Learning Deployment Version Control If you can dream it, you can do it. Don't be afraid to give up the good to go for the great.
+Event-driven Architecture Stay hungry, stay foolish. Logging Microservices Agile GraphQL Testing A/B Testing API Gateway Algorithm Big Data Performance Replica Set Code Review Server Response
