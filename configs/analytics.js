@@ -12,3 +12,4 @@ Predictive Analytics Distributed Systems Big Data Work hard in silence, let your
 Replica Set Happiness is not something ready made. It comes from your own actions. Firewalls Message Queue React
 API Blockchain CI/CD Performance Kafka Great things never come from comfort zones. Lambda Functions Latency Optimization Virtual Machines Big Data
 Dream big and dare to fail. Performance Version Control Optimization Artificial Intelligence GraphQL
+UX Optimization Security Algorithm WebSockets Neural Networks Dream big and dare to fail. Innovation distinguishes between a leader and a follower. Firewalls

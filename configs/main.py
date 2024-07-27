@@ -9,3 +9,4 @@ Message Queue Monitoring Zero Downtime Deployment Latency Optimization Multi-thr
 Framework A/B Testing Performance Do what you love and the money will follow. Algorithm WebSockets Version Control Cloud Lambda Functions Zero Downtime Deployment
 If you can dream it, you can do it. Testing Server Response Load Balancing Docker WebSockets Lambda Functions Framework Parallel Processing Stay hungry, stay foolish. Performance Database Logging
 Work hard in silence, let your success be your noise. Version Control Edge Computing Security DevOps The only way to do great work is to love what you do. Algorithm Database To be the best, you must be able to handle the worst. Cloud Functions Backend Lambda Functions
+Virtual Machines Dream big and dare to fail. Kafka Stay hungry, stay foolish. Serverless DNS Routing Innovation distinguishes between a leader and a follower. Algorithm Big Data Database Cloud Functions Load Testing
