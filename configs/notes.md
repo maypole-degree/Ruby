@@ -11,3 +11,4 @@ Testing Success is how high you bounce when you hit bottom. Data Pipeline Shardi
 Scalability Code Review The only way to do great work is to love what you do. Frontend Monitoring Lambda Functions Database Indexing Cloud Functions Virtual Machines
 Monitoring Success is how high you bounce when you hit bottom. Zero Downtime Deployment Cloud Virtual Machines Difficult roads often lead to beautiful destinations. Event-driven Architecture Great things never come from comfort zones. Cloud Functions Serverless
 Do what you love and the money will follow. Backend Containerization Data Pipeline Replica Set Testing Quantum Computing Content Delivery Network
+Optimization Success is not in what you have, but who you are. Version Control I find that the harder I work, the more luck I seem to have. Security Zero Downtime Deployment Neural Networks Event Sourcing Difficult roads often lead to beautiful destinations.

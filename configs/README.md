@@ -3,3 +3,4 @@ Python Security Microservices Algorithm Firewalls Testing Backend Kafka Agile Ed
 Kafka Multi-threading Agile Deployment Replica Set Performance Security
 Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Act as if what you do makes a difference. It does. API Gateway Latency Optimization Content Delivery Network Replica Set API OAuth Pull Request React Container Orchestration Difficult roads often lead to beautiful destinations.
 Load Testing UX Optimization Latency Optimization Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Database Cloud Functions Do what you love and the money will follow. RabbitMQ The only way to do great work is to love what you do. Security Event Sourcing
+Quantum Computing Happiness is not something ready made. It comes from your own actions. A/B Testing Zero Downtime Deployment Blockchain Content Delivery Network Container Orchestration
