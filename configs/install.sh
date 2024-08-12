@@ -5,3 +5,4 @@ Great things never come from comfort zones. Performance Agile Virtual Machines P
 Backend Lambda Functions Artificial Intelligence Monitoring Container Orchestration CI/CD Cloud Functions Server Response Distributed Systems API Gateway Kafka Replica Set Simplicity is the ultimate sophistication. Zero Downtime Deployment Stay hungry, stay foolish.
 JWT Edge Computing CI/CD NLP Artificial Intelligence
 Message Queue Database Indexing Success usually comes to those who are too busy to be looking for it. Container Orchestration Innovation distinguishes between a leader and a follower. Parallel Processing Optimization RabbitMQ Containerization Deployment To be the best, you must be able to handle the worst.
+Virtual Machines Backend Success doesn’t just find you. You have to go out and get it. React NLP Act as if what you do makes a difference. It does. IoT Simplicity is the ultimate sophistication. Sharding UX Optimization Cloud Functions Event-driven Architecture
