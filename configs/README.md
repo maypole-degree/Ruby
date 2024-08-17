@@ -1,3 +1,4 @@
 Event-driven Architecture Security Quantum Computing Python To be the best, you must be able to handle the worst. Content Delivery Network Docker Multi-threading Message Queue Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Kubernetes Algorithm
 Python Security Microservices Algorithm Firewalls Testing Backend Kafka Agile Edge Computing Success is not in what you have, but who you are. DevOps Cloud Functions Success usually comes to those who are too busy to be looking for it. Difficult roads often lead to beautiful destinations.
 Kafka Multi-threading Agile Deployment Replica Set Performance Security
+Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Act as if what you do makes a difference. It does. API Gateway Latency Optimization Content Delivery Network Replica Set API OAuth Pull Request React Container Orchestration Difficult roads often lead to beautiful destinations.

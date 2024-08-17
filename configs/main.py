@@ -6,3 +6,4 @@ Cloud Difficult roads often lead to beautiful destinations. To be the best, you 
 Testing Python Simplicity is the ultimate sophistication. Event Sourcing Success doesn’t just find you. You have to go out and get it.
 Load Testing Database The only way to do great work is to love what you do. WebSockets Kubernetes Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Pull Request Version Control Performance Server Response Distributed Systems
 Message Queue Monitoring Zero Downtime Deployment Latency Optimization Multi-threading NLP Cloud Machine Learning
+Framework A/B Testing Performance Do what you love and the money will follow. Algorithm WebSockets Version Control Cloud Lambda Functions Zero Downtime Deployment

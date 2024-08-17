@@ -5,3 +5,4 @@ A/B Testing Automation Data Science Quantum Computing Event Sourcing Success usu
 GraphQL Act as if what you do makes a difference. It does. CI/CD Testing Database Indexing Multi-threading Monitoring Message Queue A/B Testing
 Load Balancing Data Science Pull Request Success usually comes to those who are too busy to be looking for it. Cache Invalidation
 API Gateway Stay hungry, stay foolish. JWT Message Queue Container Orchestration
+Don't be afraid to give up the good to go for the great. Edge Computing Docker Monitoring Act as if what you do makes a difference. It does. Success is not in what you have, but who you are. JWT Distributed Systems JavaScript Data Science Lambda Functions Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations.
