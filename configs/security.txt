@@ -2,3 +2,4 @@ Innovation distinguishes between a leader and a follower. Predictive Analytics A
 Monitoring Machine Learning API Agile Data Pipeline Python Predictive Analytics Cloud Functions NLP Kafka Deployment Replica Set Testing Kubernetes Sharding
 API Testing Monitoring Success usually comes to those who are too busy to be looking for it. Deployment Code Review UX Optimization A/B Testing Scalability
 Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Kafka Algorithm Automation Load Balancing RabbitMQ JWT Containerization Cloud Security Pull Request Distributed Systems
+Big Data Framework Serverless Content Delivery Network Containerization Scalability Multi-threading Algorithm React Python To be the best, you must be able to handle the worst.
