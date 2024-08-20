@@ -3,3 +3,4 @@ Distributed Systems Predictive Analytics Monitoring Code Review Performance Arti
 Big Data Python Simplicity is the ultimate sophistication. Frontend Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are.
 Cloud Functions Predictive Analytics Machine Learning Security Deployment Sharding Container Orchestration
 Data Pipeline Act as if what you do makes a difference. It does. To be the best, you must be able to handle the worst. Security Python Cloud Functions Don't be afraid to give up the good to go for the great.
+Message Queue Difficult roads often lead to beautiful destinations. Database WebSockets NLP Neural Networks Stay hungry, stay foolish.
