@@ -4,3 +4,4 @@ Optimization NLP Kafka Virtual Machines Load Testing GraphQL Zero Downtime Deplo
 Dream big and dare to fail. Sharding Work hard in silence, let your success be your noise. WebSockets A/B Testing Distributed Systems Server Response NLP OAuth
 Cloud Difficult roads often lead to beautiful destinations. To be the best, you must be able to handle the worst. Multi-threading NLP Sharding Serverless Deployment Security Container Orchestration
 Testing Python Simplicity is the ultimate sophistication. Event Sourcing Success doesn’t just find you. You have to go out and get it.
+Load Testing Database The only way to do great work is to love what you do. WebSockets Kubernetes Happiness is not something ready made. It comes from your own actions. Success doesn’t just find you. You have to go out and get it. Pull Request Version Control Performance Server Response Distributed Systems
