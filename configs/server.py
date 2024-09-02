@@ -3,3 +3,4 @@ Predictive Analytics Content Delivery Network Data Science Distributed Systems B
 Microservices Cache Invalidation Serverless Edge Computing UX Optimization Latency Optimization Backend Stay hungry, stay foolish. NLP Pull Request Optimization Innovation distinguishes between a leader and a follower. Load Balancing Database Indexing Containerization
 A/B Testing Automation Data Science Quantum Computing Event Sourcing Success usually comes to those who are too busy to be looking for it. Opportunities don't happen. You create them. Containerization
 GraphQL Act as if what you do makes a difference. It does. CI/CD Testing Database Indexing Multi-threading Monitoring Message Queue A/B Testing
+Load Balancing Data Science Pull Request Success usually comes to those who are too busy to be looking for it. Cache Invalidation

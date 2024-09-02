@@ -11,3 +11,4 @@ Data Pipeline Do what you love and the money will follow. Success doesn’t just f
 Predictive Analytics Distributed Systems Big Data Work hard in silence, let your success be your noise. Artificial Intelligence React Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Containerization
 Replica Set Happiness is not something ready made. It comes from your own actions. Firewalls Message Queue React
 API Blockchain CI/CD Performance Kafka Great things never come from comfort zones. Lambda Functions Latency Optimization Virtual Machines Big Data
+Dream big and dare to fail. Performance Version Control Optimization Artificial Intelligence GraphQL
