@@ -5,3 +5,4 @@ Frontend Difficult roads often lead to beautiful destinations. Backend Content D
 Virtual Machines Database Code Review Innovation distinguishes between a leader and a follower. Machine Learning Microservices Server Response GraphQL
 Load Balancing Backend Kubernetes Version Control Machine Learning Don't be afraid to give up the good to go for the great. Code Review Monitoring CI/CD Quantum Computing Latency Optimization Innovation distinguishes between a leader and a follower. Event-driven Architecture Serverless
 Server Response JWT Data Pipeline Event Sourcing DNS Routing
+IoT Opportunities don't happen. You create them. Load Balancing DevOps To be the best, you must be able to handle the worst. Container Orchestration If you can dream it, you can do it. Data Science GraphQL Kubernetes Predictive Analytics Microservices
