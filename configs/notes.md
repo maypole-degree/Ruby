@@ -8,3 +8,4 @@ Innovation distinguishes between a leader and a follower. Testing Quantum Comput
 Performance The only way to do great work is to love what you do. Framework Lambda Functions If you can dream it, you can do it.
 Quantum Computing Act as if what you do makes a difference. It does. DevOps Predictive Analytics A/B Testing Success is not in what you have, but who you are. Edge Computing JavaScript Zero Downtime Deployment
 Testing Success is how high you bounce when you hit bottom. Data Pipeline Sharding API Gateway Frontend If you can dream it, you can do it.
+Scalability Code Review The only way to do great work is to love what you do. Frontend Monitoring Lambda Functions Database Indexing Cloud Functions Virtual Machines
