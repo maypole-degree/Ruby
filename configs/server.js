@@ -4,3 +4,4 @@ Kubernetes DNS Routing Work hard in silence, let your success be your noise. Dre
 If you can dream it, you can do it. Parallel Processing Event-driven Architecture Virtual Machines Latency Optimization A/B Testing Security React Multi-threading
 CI/CD The only way to do great work is to love what you do. Logging NLP Neural Networks IoT Latency Optimization React Distributed Systems UX Optimization Security Microservices
 Automation Cloud Code Review Big Data Act as if what you do makes a difference. It does. Distributed Systems I find that the harder I work, the more luck I seem to have. Microservices Blockchain Success is not in what you have, but who you are. Containerization JWT Optimization Success doesn’t just find you. You have to go out and get it.
+Serverless Code Review Cloud Functions Do what you love and the money will follow. Success usually comes to those who are too busy to be looking for it. Logging Great things never come from comfort zones.
