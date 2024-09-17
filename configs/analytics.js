@@ -9,3 +9,4 @@ Kubernetes Optimization Machine Learning Security Data Pipeline Firewalls Cloud 
 Event-driven Architecture Success is not in what you have, but who you are. Great things never come from comfort zones. Latency Optimization Cloud Functions
 Data Pipeline Do what you love and the money will follow. Success doesn’t just find you. You have to go out and get it. JWT Database Dream big and dare to fail. Cache Invalidation Database Indexing
 Predictive Analytics Distributed Systems Big Data Work hard in silence, let your success be your noise. Artificial Intelligence React Do what you love and the money will follow. Don't be afraid to give up the good to go for the great. Containerization
+Replica Set Happiness is not something ready made. It comes from your own actions. Firewalls Message Queue React
