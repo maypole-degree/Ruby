@@ -2,3 +2,4 @@ Kubernetes A/B Testing Multi-threading DNS Routing Python Event-driven Architect
 If you can dream it, you can do it. Server Response Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Event Sourcing Event-driven Architecture DevOps Zero Downtime Deployment Optimization A/B Testing NLP
 Kafka DevOps Parallel Processing I find that the harder I work, the more luck I seem to have. Code Review Quantum Computing Neural Networks
 Serverless CI/CD Success usually comes to those who are too busy to be looking for it. Security OAuth Neural Networks Monitoring Latency Optimization I find that the harder I work, the more luck I seem to have. Testing Version Control Content Delivery Network
+Logging Automation Big Data Happiness is not something ready made. It comes from your own actions. Parallel Processing Server Response Machine Learning Pull Request Distributed Systems WebSockets Cache Invalidation
