@@ -6,3 +6,4 @@ Work hard in silence, let your success be your noise. Great things never come fr
 Automation Code Review UX Optimization Neural Networks Python
 Pull Request Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Microservices Neural Networks Dream big and dare to fail. UX Optimization
 Kubernetes Optimization Machine Learning Security Data Pipeline Firewalls Cloud DevOps To be the best, you must be able to handle the worst. Backend Database Indexing Neural Networks Latency Optimization RabbitMQ
+Event-driven Architecture Success is not in what you have, but who you are. Great things never come from comfort zones. Latency Optimization Cloud Functions

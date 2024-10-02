@@ -2,3 +2,4 @@ Scalability DevOps Containerization Docker Success doesn’t just find you. You ha
 Predictive Analytics Data Science To be the best, you must be able to handle the worst. Load Testing Framework Event-driven Architecture Agile DevOps Virtual Machines DNS Routing
 Kubernetes DNS Routing Work hard in silence, let your success be your noise. Dream big and dare to fail. Sharding Data Pipeline Database Logging To be the best, you must be able to handle the worst. Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication.
 If you can dream it, you can do it. Parallel Processing Event-driven Architecture Virtual Machines Latency Optimization A/B Testing Security React Multi-threading
+CI/CD The only way to do great work is to love what you do. Logging NLP Neural Networks IoT Latency Optimization React Distributed Systems UX Optimization Security Microservices
