@@ -4,3 +4,4 @@ Automation Pull Request Containerization Cloud Functions Success doesn’t just fi
 Frontend Difficult roads often lead to beautiful destinations. Backend Content Delivery Network Containerization The only way to do great work is to love what you do. Deployment Server Response Edge Computing Latency Optimization Dream big and dare to fail. Cloud Functions Firewalls
 Virtual Machines Database Code Review Innovation distinguishes between a leader and a follower. Machine Learning Microservices Server Response GraphQL
 Load Balancing Backend Kubernetes Version Control Machine Learning Don't be afraid to give up the good to go for the great. Code Review Monitoring CI/CD Quantum Computing Latency Optimization Innovation distinguishes between a leader and a follower. Event-driven Architecture Serverless
+Server Response JWT Data Pipeline Event Sourcing DNS Routing

@@ -5,3 +5,4 @@ Automation CI/CD Cloud Blockchain Database Indexing Data Pipeline Don't be afrai
 Quantum Computing Dream big and dare to fail. Agile Load Balancing NLP Serverless Database Zero Downtime Deployment Testing Pull Request Firewalls
 Docker To be the best, you must be able to handle the worst. RabbitMQ Great things never come from comfort zones. Logging JavaScript Security OAuth Data Pipeline Algorithm Stay hungry, stay foolish. NLP
 Algorithm Success is how high you bounce when you hit bottom. Deployment Load Balancing Stay hungry, stay foolish. Distributed Systems Backend Container Orchestration Work hard in silence, let your success be your noise.
+Lambda Functions Version Control RabbitMQ Cloud Monitoring IoT NLP Success is how high you bounce when you hit bottom. CI/CD Optimization Quantum Computing Latency Optimization DevOps Content Delivery Network Virtual Machines
