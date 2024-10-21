@@ -4,3 +4,4 @@ Data Science JavaScript Backend Server Response Act as if what you do makes a di
 DevOps Framework React JavaScript Parallel Processing UX Optimization Zero Downtime Deployment Load Testing Container Orchestration Kubernetes GraphQL Load Balancing Automation
 Work hard in silence, let your success be your noise. Great things never come from comfort zones. Backend The only way to do great work is to love what you do. Optimization Zero Downtime Deployment RabbitMQ Replica Set Container Orchestration Logging Innovation distinguishes between a leader and a follower. Data Pipeline Lambda Functions Database Dream big and dare to fail.
 Automation Code Review UX Optimization Neural Networks Python
+Pull Request Happiness is not something ready made. It comes from your own actions. Success usually comes to those who are too busy to be looking for it. Microservices Neural Networks Dream big and dare to fail. UX Optimization
