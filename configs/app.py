@@ -1,1 +1,2 @@
 Data Pipeline Simplicity is the ultimate sophistication. Kubernetes Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. RabbitMQ Load Balancing Success is how high you bounce when you hit bottom.
+Neural Networks Event Sourcing Opportunities don't happen. You create them. Distributed Systems NLP Cloud Container Orchestration Replica Set Message Queue Lambda Functions Success doesn’t just find you. You have to go out and get it. Logging
