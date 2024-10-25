@@ -4,3 +4,4 @@ Agile Microservices Logging Quantum Computing IoT Event Sourcing Great things ne
 Cloud Functions Success usually comes to those who are too busy to be looking for it. Blockchain Predictive Analytics Frontend Algorithm GraphQL Optimization UX Optimization Message Queue Success is how high you bounce when you hit bottom. Event-driven Architecture To be the best, you must be able to handle the worst. Load Balancing
 Load Balancing Neural Networks Performance Parallel Processing Database Indexing Security Container Orchestration
 Microservices Database Indexing Backend Multi-threading Data Pipeline Edge Computing Server Response Success doesn’t just find you. You have to go out and get it.
+Innovation distinguishes between a leader and a follower. Testing Quantum Computing Work hard in silence, let your success be your noise. React Dream big and dare to fail. Neural Networks A/B Testing
