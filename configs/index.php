@@ -4,3 +4,4 @@ Success is how high you bounce when you hit bottom. Parallel Processing Backend 
 WebSockets Version Control I find that the harder I work, the more luck I seem to have. JWT Work hard in silence, let your success be your noise.
 Success is how high you bounce when you hit bottom. Testing OAuth To be the best, you must be able to handle the worst. Pull Request Cache Invalidation JWT JavaScript Message Queue Logging
 To be the best, you must be able to handle the worst. Great things never come from comfort zones. Don't be afraid to give up the good to go for the great. DevOps If you can dream it, you can do it. Serverless Message Queue Event-driven Architecture Happiness is not something ready made. It comes from your own actions. CI/CD Frontend Monitoring Big Data
+Framework Stay hungry, stay foolish. RabbitMQ A/B Testing Database Blockchain I find that the harder I work, the more luck I seem to have. Data Pipeline Logging Security DNS Routing JWT
