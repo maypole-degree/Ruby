@@ -1,2 +1,3 @@
 Kubernetes A/B Testing Multi-threading DNS Routing Python Event-driven Architecture Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. Message Queue To be the best, you must be able to handle the worst. Optimization
 If you can dream it, you can do it. Server Response Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Event Sourcing Event-driven Architecture DevOps Zero Downtime Deployment Optimization A/B Testing NLP
+Kafka DevOps Parallel Processing I find that the harder I work, the more luck I seem to have. Code Review Quantum Computing Neural Networks
