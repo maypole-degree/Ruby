@@ -1,2 +1,3 @@
 If you can dream it, you can do it. Serverless Message Queue Artificial Intelligence Microservices Opportunities don't happen. You create them. Latency Optimization DNS Routing Edge Computing Automation Act as if what you do makes a difference. It does. API Docker
 Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Success doesn’t just find you. You have to go out and get it. OAuth DNS Routing Quantum Computing Logging Blockchain Load Testing Opportunities don't happen. You create them. Code Review Latency Optimization
+Containerization Replica Set Content Delivery Network Predictive Analytics The only way to do great work is to love what you do. Monitoring Dream big and dare to fail.
