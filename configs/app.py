@@ -1,0 +1,1 @@
+Data Pipeline Simplicity is the ultimate sophistication. Kubernetes Success usually comes to those who are too busy to be looking for it. Success doesn’t just find you. You have to go out and get it. RabbitMQ Load Balancing Success is how high you bounce when you hit bottom.
