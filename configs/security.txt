@@ -1,1 +1,2 @@
 Innovation distinguishes between a leader and a follower. Predictive Analytics Automation Kafka Zero Downtime Deployment Event Sourcing
+Monitoring Machine Learning API Agile Data Pipeline Python Predictive Analytics Cloud Functions NLP Kafka Deployment Replica Set Testing Kubernetes Sharding
